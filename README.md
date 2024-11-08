@@ -3,7 +3,7 @@
 ## Tecnologias Utilizadas | Technologies Used
 
 <a href="https://github.com/diegonery465" target="_blank">
-  <img src="https://img.shields.io/badge/AWS_IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS IAM">
+  <img src="https://img.shields.io/badge/AWS_IAM-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS IAM">
 </a>
 
 
