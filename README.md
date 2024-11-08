@@ -11,7 +11,7 @@
 
 <br>
 
-1 - 👨🏻‍💻 **Migração de usuários de forma automatizada e gerenciamento dos recursos do IAM (Identity and Access Management) da AWS** | Artigo no Medium
+1 - 👨🏻‍💻 **Migração de usuários de forma automatizada e gerenciamento dos recursos do IAM (Identity and Access Management) da AWS**
 <br>
 <br>
 <a href="https://github.com/diegonery465/Projetos-HTML-CSS-JS" target="_blank">
