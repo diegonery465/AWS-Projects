@@ -1,4 +1,4 @@
-# 🛠️ AWS-Projects
+# 🛠️ AWS PROJECTS
 
 ## Tecnologias Utilizadas
 
