@@ -11,15 +11,7 @@
 
 <br>
 
-1 - 👨🏻‍💻 **Migração de usuários de forma automatizada e gerenciamento dos recursos do IAM (Identity and Access Management) da AWS**
-<br>
-<a href="https://github.com/diegonery465/Projetos-HTML-CSS-JS" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-</a>
-<br>
-<br>
-
-2 - 👨🏻‍💻 **Pipeline CI/CD com GitHub Actions**: Repositório no GitHub | Artigo no Medium
+1 - 👨🏻‍💻 **Pipeline CI/CD com GitHub Actions**: Repositório no GitHub | Artigo no Medium
 <br>
 <br>
 <a href="https://github.com/diegonery465/Projetos-HTML-CSS-JS" target="_blank">
