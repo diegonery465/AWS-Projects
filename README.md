@@ -2,17 +2,7 @@
 
 ## Tecnologias Utilizadas
 
-!Google Cloud
-!Azure
-!Oracle
-!Vagrant
-!Ansible
-!Terraform
-!Linux
-!Windows
-!Artificial Intelligence
-!Cybersecurity
-!Programming
+!AWS
 
 ## Projetos
 
