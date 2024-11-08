@@ -2,7 +2,10 @@
 
 ## Tecnologias Utilizadas | Technologies Used
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)<a href="/" target="_blank"></a></BR>
+<a href="https://github.com/diegonery465" target="_blank">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+</a>
+
 
 ## Projetos | Projects
 
