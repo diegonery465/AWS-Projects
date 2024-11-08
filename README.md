@@ -1,6 +1,6 @@
 # 🛠️ AWS PROJECTS
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas | Technologies Used
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)<a href="/" target="_blank"></a></BR>
 
