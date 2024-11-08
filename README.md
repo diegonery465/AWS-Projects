@@ -18,4 +18,4 @@
 
 <br>
 
-👨🏻‍💻 <a href="https://github.com/diegonery465/Desafio-DIO/tree/main/FlexCSSInstagram" target="_blank" style="text-decoration: none; color: inherit;">1 - Pipeline CI/CD com GitHub Actions: Repositório no GitHub | Artigo no Medium</a><br>
+1 - 👨🏻‍💻 1 - Pipeline CI/CD com GitHub Actions: Repositório no GitHub | Artigo no Medium<a href="https://github.com/diegonery465/Desafio-DIO/tree/main/FlexCSSInstagram" target="_blank" style="text-decoration: none; color: inherit;"></a><br>
