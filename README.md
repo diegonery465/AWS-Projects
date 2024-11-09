@@ -2,12 +2,6 @@
 
 ## Tecnologias Utilizadas | Technologies Used
 
-[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/diegonery465/AWS-Projects)<br>
-
-
-👨🏻‍💻 **Projeto de Migração de usuários de forma automatizada e gerenciamento dos recursos do IAM (Identity and Access Management) da AWS**
-
-
 <a href="https://github.com/diegonery465" target="_blank" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/AWS_IAM-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS IAM">
 </a>
@@ -22,7 +16,8 @@
 <br>
 <br>
 
-**Link para o artigo no Medium**
+👨🏻‍💻 **Projeto de Migração de usuários de forma automatizada e gerenciamento dos recursos do IAM (Identity and Access Management) da AWS**
+
 <br>
 <br>
 <a href="https://medium.com/@diegonery465/migração-de-usuários-de-forma-automatizada-e-gerenciamento-dos-recursos-do-iam-identity-and-access-d98cccddfd81" target="_blank">
