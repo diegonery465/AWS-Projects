@@ -28,4 +28,6 @@ Tecnologias utilizadas:
 Tecnologias utilizadas:
 
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![Amazon VPC](https://img.shields.io/badge/Amazon_VPC-50C878?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+
 
