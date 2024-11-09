@@ -1,4 +1,4 @@
-# 🛠️ PROJECT 01
+# 🛠️ Projeto 01
 
 ### Migração de usuários de forma automatizada e gerenciamento dos recursos do IAM (Identity and Access Management) da AWS
 
@@ -15,4 +15,4 @@
 <br>
 <br>
 
-# 🛠️ PROJECT 02
+# 🛠️ Projeto 02
