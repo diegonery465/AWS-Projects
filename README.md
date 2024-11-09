@@ -31,6 +31,8 @@ Tecnologias utilizadas:
 ![Amazon VPC](https://img.shields.io/badge/Amazon_VPC-50C878?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Amazon Internet Gateway](https://img.shields.io/badge/Internet_Gateway-8A2BE2?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 
