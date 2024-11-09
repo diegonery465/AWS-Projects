@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/AWS_Lambda-FD9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Lambda">
 </a>
 <br>
+<br>
 
 **Link para o artigo no Medium**
 <br>
