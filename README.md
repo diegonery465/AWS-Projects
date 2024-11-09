@@ -2,6 +2,11 @@
 
 ## Tecnologias Utilizadas | Technologies Used
 
+
+
+
+## Projetos | Projects
+
 <a href="https://github.com/diegonery465" target="_blank" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/AWS_IAM-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS IAM">
 </a>
@@ -13,10 +18,6 @@
 <a href="https://github.com/diegonery465" target="_blank">
   <img src="https://img.shields.io/badge/AWS_Lambda-FD9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Lambda">
 </a>
-
-
-
-## Projetos | Projects
 
 <br>
 
