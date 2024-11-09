@@ -24,3 +24,8 @@ Tecnologias utilizadas:
 # 🛠️ Projeto 02
 
 ### Migração de um Workload rodando em um Data Center Corporativo para a AWS utilizando o serviço do Amazon EC2 e RDS
+
+Tecnologias utilizadas:
+
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+
