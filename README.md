@@ -16,7 +16,7 @@
 <br>
 <br>
 
-👨🏻‍💻 **Projeto de Migração de usuários de forma automatizada e gerenciamento dos recursos do IAM (Identity and Access Management) da AWS**
+👨🏻‍💻 **Clique no link abaixo para o artigo no Medium**
 
 <br>
 <br>
