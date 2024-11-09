@@ -1,4 +1,4 @@
-# 🛠️
+## 🛠️ Projeto 01
 
 ### Migração de usuários de forma automatizada e gerenciamento dos recursos do IAM (Identity and Access Management) da AWS
 
@@ -21,7 +21,7 @@ Tecnologias utilizadas:
 <br>
 
 
-# 🛠️
+## 🛠️ Projeto 02
 
 ### Migração de um Workload rodando em um Data Center Corporativo para a AWS utilizando o serviço do Amazon EC2 e RDS
 
