@@ -2,6 +2,8 @@
 
 ### Migração de usuários de forma automatizada e gerenciamento dos recursos do IAM (Identity and Access Management) da AWS
 
+Tecnologias utilizadas:
+
 ![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![AWS CLI](https://img.shields.io/badge/AWS_CLI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
