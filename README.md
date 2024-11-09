@@ -9,7 +9,7 @@
 
 👨🏻‍💻 **Para visualizar clique no link abaixo do badge para o artigo no Medium**
 
-<a href="https://medium.com/@diegonery465/migração-de-usuários-de-forma-automatizada-e-gerenciamento-dos-recursos-do-iam-identity-and-access-d98cccddfd81" target="_blank">
+<a href="https://medium.com/@diegonery465/migração-de-usuários-de-forma-automatizada-e-gerenciamento-dos-recursos-do-iam-identity-and-access-d98cccddfd81" target="_blank" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
 </a>
 
