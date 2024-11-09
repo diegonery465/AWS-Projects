@@ -33,6 +33,15 @@ Tecnologias utilizadas:
 ![Amazon Internet Gateway](https://img.shields.io/badge/Internet_Gateway-8A2BE2?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+👨🏻‍💻 **Para visualizar o artigo, clique no badge do Medium abaixo**
+
+<a href="https://medium.com/@diegonery465/migra%C3%A7%C3%A3o-de-um-workload-rodando-em-um-data-center-corporativo-para-a-aws-utilizando-o-servi%C3%A7o-do-cf137700489b" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+</a>
+
+<br>
+<br>
+
 
 
 
