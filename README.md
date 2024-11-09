@@ -5,12 +5,8 @@
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/diegonery465/AWS-Projects)<br>
 
 
+1 - Projeto Migração de usuários de forma automatizada e gerenciamento dos recursos do IAM (Identity and Access Management) da AWS | Project for automated user migration and management of AWS IAM (Identity and Access Management) resources
 
-```
-Projeto Migração de usuários de forma automatizada e gerenciamento dos recursos do IAM (Identity and Access Management) da AWS
-
-Project for automated user migration and management of AWS IAM (Identity and Access Management) resources
-```
 
 <a href="https://github.com/diegonery465" target="_blank" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/AWS_IAM-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS IAM">
