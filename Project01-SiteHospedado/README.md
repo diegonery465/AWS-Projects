@@ -8,7 +8,7 @@
 <br>
 
 ```
-👨🏻‍💻 Para visualizar o artigo, clique no Medium abaixo
+👨🏻‍💻 Para visualizar o artigo do passo a passo da configuração realizada, clique no Medium abaixo
 
 ```
 <a href="https://medium.com/@diegonery465/migra%C3%A7%C3%A3o-de-um-workload-rodando-em-um-data-center-corporativo-para-a-aws-utilizando-o-servi%C3%A7o-do-cf137700489b" target="_blank">
