@@ -22,5 +22,5 @@
 
 🌐 [Clique aqui para visualizar o site hospedado](https://aws-project01-site.netlify.app/) <br>
 
-<img src="https://github.com/diegonery465/Projetos-HTML-CSS-JS/blob/main/FlexCSSInstagram/imgReadGit/imagDesk1.JPG"/>
+<img src="https://github.com/diegonery465/AWS-Projects/blob/main/SiteHospedado.png"/>
 
