@@ -7,4 +7,4 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)<br>
 
 [01 - Site Hospedado S3 & CloudFront | Site Hosted on S3 & CloudFront](https://github.com/diegonery465/AWS-Projects/tree/main/Project01-SiteHospedado)<br>
-[02 - Migração de usuários de forma automatizada e gerenciamento dos recursos do IAM da AWS | Automated user migration and management of AWS IAM resources](https://github.com/diegonery465/Project02-Hands-on-IAM)<br>
+[02 - Migração de usuários de forma automatizada no IAM da AWS | Automated user migration and management of AWS IAM resources](https://github.com/diegonery465/Project02-Hands-on-IAM)<br>
